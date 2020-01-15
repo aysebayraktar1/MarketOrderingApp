@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986350232529",
+    "firebase_url": "https://marketorderingapp0.firebaseio.com",
+    "project_id": "marketorderingapp0",
+    "storage_bucket": "marketorderingapp0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986350232529:android:03819f12d55284c2",
+        "android_client_info": {
+          "package_name": "com.example.yeni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986350232529-1tdrhqg6ipltnpcck4mr7dtu1fprmpcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yeni",
+            "certificate_hash": "fbcc1f26f975cbad7b22665157c78d1b94750f09"
+          }
+        },
+        {
+          "client_id": "986350232529-e1qgibjjs60fovt2jpkl6652hljcp201.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUomsj7asTxjAnSwvf7yLleCREVWs_Xpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986350232529-e1qgibjjs60fovt2jpkl6652hljcp201.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
